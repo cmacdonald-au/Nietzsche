@@ -1,0 +1,4 @@
+Nietzsche
+=========
+
+Xapian controller
